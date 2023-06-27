@@ -19,7 +19,8 @@ security please check the [Managing Sensitive Data Projects Chapter](./sdpm.md).
 
 Topics covered in this chapter:
 
-- Managing secrets
+- [Security Basics](project-sec/basics.md)
+- [Managing secrets](project-sec/secrets.md)
 - 
 ## Motivation
 

@@ -297,6 +297,11 @@ parts:
                 file: project-design/code-styling/code-styling-tools
           - title: Project Security Planning
             file: project-design/project-sec
+            sections:
+              - title: Security Planning Basics
+                file: project-design/project-sec/basics
+              - title: Managing Secrets
+                file: project-design/project-sec/secrets
           - title: Sensitive Data Projects
             file: project-design/sdp
             sections:
